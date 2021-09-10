@@ -1,0 +1,61 @@
+body {
+    background-color: #89b0ae;
+
+color: #555b6e;
+max-width: 100%;
+display: flex;
+flex: 1;
+justify-content: space-around;
+align-items: center;
+flex-direction: column;
+    
+}
+
+h1 {
+    text-align: center;
+    background-color: #faf9f9;
+    border-radius: 30px;
+    padding: 0px 4px 2px 4px;
+    
+}
+
+.mainImage {
+    width: 400px;
+    border-radius: 30px;
+    
+    
+    
+}
+
+.description {
+    background-color: #bee3db;
+    border-radius: 30px;
+    width: 800px;
+    text-align: center;
+    margin: 4px;
+    margin-top: 0px;
+    padding: 2px;
+}
+
+.ingredients {
+    background-color: #ffd6ba;
+    border-radius: 30px;
+    width: 800px;
+    padding: 2px;
+    margin: 4px;
+}
+
+.imagePosition {
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+    margin: 4px;
+}
+.steps {
+    background-color: #bee3db;
+    border-radius: 30px;
+    padding: 2px;
+    margin: 4px;
+    width: 800px;
+}
+

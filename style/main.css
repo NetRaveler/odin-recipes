@@ -1,0 +1,39 @@
+a {
+    text-decoration: none;
+    color: #555b6e;
+    
+}
+
+body {
+    background-color: #bee3db;
+
+color: #555b6e;
+max-width: 100%;
+display: flex;
+flex: 1;
+justify-content: space-around;
+align-items: center;
+flex-direction: column;
+    
+}
+h1 {
+    text-align: center;
+    background-color: #faf9f9;
+    border-radius: 30px;
+    padding: 0px 4px 2px 4px;
+    
+}
+
+.navBox {
+    background-color: #ffd6ba;
+    text-align: center;
+    margin: 10px;
+    padding: 0px 10px;
+    border-radius: 30px;
+}
+
+.navBox img {
+    width: 200px;
+    border-radius: 30px;
+    
+}
